@@ -13,4 +13,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
 </keymap>
