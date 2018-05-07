@@ -1,13 +1,13 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (py-twitter) interpreter library">
+    <library name="Python 3.6 (maritimexchange-analytics) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/Documents/code/py-twitter/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/Documents/code/py-twitter/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/Documents/code/py-twitter/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1469654715" />
+        <root url="file://$USER_HOME$/Documents/code/maritimexchange-analytics/venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/Documents/code/maritimexchange-analytics/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/Documents/code/maritimexchange-analytics/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-933255763" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
@@ -22,10 +22,10 @@
       <SOURCES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/Documents/code/py-twitter/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/Documents/code/py-twitter/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/Documents/code/py-twitter/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1469654715" />
+        <root url="file://$USER_HOME$/Documents/code/maritimexchange-analytics/venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/Documents/code/maritimexchange-analytics/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/Documents/code/maritimexchange-analytics/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-933255763" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
