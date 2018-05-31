@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (maritimexchange-analytics) interpreter library">
+    <library name="Python 3.6 (pycon-apac-2018) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
