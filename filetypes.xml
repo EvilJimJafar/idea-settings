@@ -5,6 +5,7 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="ods" type="Native" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="js___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
