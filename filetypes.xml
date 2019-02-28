@@ -6,6 +6,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="ods" type="Native" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="js___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
