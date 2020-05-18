@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ttf" type="Font" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ods" type="Native" />
-      <mapping ext="ttf" type="Native" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="js___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
