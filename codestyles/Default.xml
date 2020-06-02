@@ -1,6 +1,5 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="150" />
-  <option name="SOFT_MARGINS" value="150" />
+  <option name="SOFT_MARGINS" value="120" />
   <HTMLCodeStyleSettings>
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,strike,strong,sub,sup,tt,u,var" />
   </HTMLCodeStyleSettings>
